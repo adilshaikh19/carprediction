@@ -103,7 +103,6 @@ python-lsp-black==1.0.0
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.2
 python-slugify==5.0.2
-pywin32==301
 pywin32-ctypes==0.2.0
 pyzmq==22.3.0
 QDarkStyle==3.0.2
